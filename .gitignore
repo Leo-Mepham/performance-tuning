@@ -1,0 +1,4 @@
+bin/
+obj/
+*.sqlproj.user
+.vs/
